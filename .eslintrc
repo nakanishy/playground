@@ -1,0 +1,11 @@
+
+{
+  "env": {
+    "browser": true,
+    "commonjs": true,
+    "jest/globals": true
+  },
+  "parser": "babel-eslint",
+  "extends": ["standard", "standard-jsx"],
+  "plugins": ["jest"]
+}
