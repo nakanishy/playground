@@ -1,3 +1,6 @@
 function test () {
-  console.log("aiueo");
+  let a = 10;
+  return a + 20
   }
+
+test()
